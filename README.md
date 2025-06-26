@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Eymen aka AlphaVerse, a passionate aspiring software developer with a strong interest in web development, creating projects, and learning new technologies.<br>
-🚀 Currently working on a student app.<br>
+🚀 Currently learning React for frontend development.<br>
 🎓 I’m a 10th-grade student focused on mastering technologies.<br>
 💡 My interests include **game development, web design, and language learning**.<br>
 🌟 My goal is to create impactful projects, improve continuously, and contribute positively to the world.<br>
@@ -40,12 +40,6 @@
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=AlphaVerse09&theme=darkhub)
-
----
-
-## ✍️ Quote:
-> *"The journey of a thousand miles begins with a single step."*  
-> – Lao Tzu  
 
 ---
 
